@@ -22,7 +22,7 @@
 克隆仓库并确保你已安装 Python 3。然后，为脚本添加执行权限：
 
 ```bash
-git clone https://github.com/yourusername/MC-colorscripts.git
+git clone https://github.com/KuLiPai/MC-colorscripts.git
 cd MC-colorscripts
 ```
 

@@ -25,7 +25,7 @@
 Clone the repository and ensure you have Python 3 installed. Then, add execute permission to the script:
 
 ```bash
-git clone https://github.com/yourusername/MC-colorscripts.git
+git clone https://github.com/KuLiPai/MC-colorscripts.git
 cd MC-colorscripts
 ```
 
